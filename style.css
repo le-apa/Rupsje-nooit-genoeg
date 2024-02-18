@@ -1,0 +1,223 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Arial", "serif";
+}
+
+:root {
+    --default-padding: 5rem;
+    --default-margin:5rem;
+}
+
+.caterpillar__navbar__list {
+    list-style-type: none;
+    margin: 0;
+    font-size: 1.5rem;
+    font-weight: lighter;
+    overflow: hidden;
+    background-color: #7f8e37;
+}
+
+.caterpillar__navbar__list_item {
+    float: left;
+}
+
+.caterpillar__navbar__list_item_link {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 1.4rem 1.6rem;
+    text-decoration: none;
+
+    &:hover {
+        background-color: #515b23;
+    }
+}
+
+.caterpillar__content {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.caterpillar__content__container {
+    padding: 4rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #eaf2c1;
+}
+
+.caterpillar__content__container_image {
+    width: 700px;
+}
+
+.caterpillar__content__container-text {
+    align-self: end;
+    margin-right: 14rem;
+    margin-top: 1rem;
+    font-size: 2rem;
+    font-family: "Times New Roman", "sans-serif";
+    color: #7f8d37;
+}
+
+.caterpillar__content__header {
+    font-weight: bold;
+    font-size: 2rem;
+    margin: 0 var(--default-margin);
+    padding-top: 3rem;
+}
+
+.caterpillar__content__text_paragraph {
+    font-size: 1.3rem;
+    color: black;
+    margin: 0 var(--default-margin);
+    margin-bottom: 6rem;
+    background:white;
+}
+
+.caterpillar__content__news-block{
+    margin: 5rem var(--default-margin) 9rem;
+}
+.caterpillar__content__news-block {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.caterpillar__content__news-block-museum{
+    height: 400px;
+    width: 900px;
+    background: black;
+    margin-left: -30%;
+}
+
+.caterpillar__content__news-block-musea{
+    height: 400px;
+    width: 600px;
+    background: #d8d8d8;
+    margin-left: 70%;
+    margin-top: -10%;
+    opacity: 100%;
+}
+
+.caterpillar__content_news-event{
+    /*margin-left: var(--default-margin);*/
+    display: flex;
+    gap: 3.5rem;
+    /*margin-bottom: 2rem;*/
+    margin: 5rem var(--default-margin) 2rem;
+}
+
+.caterpillar__content_news-event-one{
+    width:450px;
+    height:500px;
+    border-radius:5rem;
+    background: #7f8e37;
+}
+
+.caterpillar__content_news-event-two{
+    width:450px;
+    height:500px;
+    border-radius:5rem;
+    background: #7f8e37
+}
+
+.caterpillar__content_news-event-three{
+    width:450px;
+    height:500px;
+    border-radius:5rem;
+    background: #7f8e37
+}
+.caterpillar__content__store-link {
+    width: 80%;
+    align-self: center;
+    padding: 5rem;
+    border-radius: 1rem;
+    background: #f28a84;
+    display: flex;
+    justify-content: flex-end;
+    /*margin-bottom: 2rem;*/
+    margin: 0 var(--default-margin) 0;
+}
+
+.caterpillar__content__store-link_text {
+    font-size: 1.6rem;
+    font-weight: 600;
+    text-decoration: none;
+    color:white;
+}
+
+.caterpillar__content_news-fun{
+    margin-left: var(--default-margin);
+    display: flex;
+    gap: 3.5rem;
+    /*margin-bottom: 2rem;*/
+    margin: 2rem var(--default-margin) 9rem;
+
+}
+
+.caterpillar__content_news-event-one,
+.caterpillar__content_news-event-two,
+.caterpillar__content_news-event-three,
+.caterpillar__content_news-fun-one,
+.caterpillar__content_news-fun-two {
+    flex-shrink: 0;
+
+}
+.caterpillar__content_news-fun-one{
+    width:450px;
+    height:500px;
+    border-radius:5rem;
+    background: #7f8e37;
+}
+
+.caterpillar__content_news-fun-two{
+    width:450px;
+    height:500px;
+    border-radius:5rem;
+    background: #7f8e37
+}
+.caterpillar__content_news-fun-three{
+    /*width:450px;*/
+    /*height:500px;*/
+    font-size: 25px;
+    margin-top: 2rem;
+}
+
+.caterpillar__content__author-background{
+    background: #7f8e37;
+    height:400px;
+}
+
+.caterpillar__content__author{
+    display:flex;
+    align-items: center;
+    flex-direction:row;
+    justify-content: space-between;
+    margin: 3rem var(--default-margin) 0;
+    gap: 5rem;
+    color: white;
+}
+
+.caterpillar__content__author-image{
+    margin-top:5rem;
+}
+
+.caterpillar__content_footer{
+    margin-top:10rem;
+    width:100%;
+    height: 400px;
+    background: #7f8e37;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.caterpillar__content_footer-text{
+    font-size: 2rem;
+    color: white;
+
+    margin: 0 var(--default-margin);
+}
+
