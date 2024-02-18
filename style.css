@@ -149,7 +149,6 @@
 }
 
 .caterpillar__content_news-fun{
-    margin-left: var(--default-margin);
     display: flex;
     gap: 3.5rem;
     /*margin-bottom: 2rem;*/
