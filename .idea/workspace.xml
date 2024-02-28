@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd8a4a3e-6819-4340-9480-2eb304ca78c8" name="Changes" comment="- Fixed the issue when zooming.">
+    <list default="true" id="cd8a4a3e-6819-4340-9480-2eb304ca78c8" name="Changes" comment="- Fixed a link&#10;- Fixed overlapping css">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/author.html" beforeDir="false" afterPath="$PROJECT_DIR$/author.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/main.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/merchandise.html" beforeDir="false" afterPath="$PROJECT_DIR$/merchandise.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/other__works.html" beforeDir="false" afterPath="$PROJECT_DIR$/other__works.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/story.html" beforeDir="false" afterPath="$PROJECT_DIR$/story.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +103,7 @@
       <workItem from="1708937724570" duration="6268000" />
       <workItem from="1708960166123" duration="17457000" />
       <workItem from="1709028755195" duration="25670000" />
-      <workItem from="1709116844451" duration="14048000" />
+      <workItem from="1709116844451" duration="16704000" />
     </task>
     <task id="LOCAL-00001" summary="Added main html page and stylesheet css">
       <option name="closed" value="true" />
@@ -246,7 +249,31 @@
       <option name="project" value="LOCAL" />
       <updated>1709134275849</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="- Adding navbar to all pages&#10;- Adding the correct stylesheets for it">
+      <option name="closed" value="true" />
+      <created>1709136097373</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1709136097373</updated>
+    </task>
+    <task id="LOCAL-00020" summary="- Fixed code warnings">
+      <option name="closed" value="true" />
+      <created>1709136207045</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1709136207045</updated>
+    </task>
+    <task id="LOCAL-00021" summary="- Fixed code warnings">
+      <option name="closed" value="true" />
+      <created>1709136290911</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1709136290911</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -286,6 +313,9 @@
     <MESSAGE value="- Fixed mobile-navbar&#10;- Fixed other concurring issues due to merge errors." />
     <MESSAGE value="- Undo git push." />
     <MESSAGE value="- Fixed the issue when zooming." />
-    <option name="LAST_COMMIT_MESSAGE" value="- Fixed the issue when zooming." />
+    <MESSAGE value="- Adding navbar to all pages&#10;- Adding the correct stylesheets for it" />
+    <MESSAGE value="- Fixed code warnings" />
+    <MESSAGE value="- Fixed a link&#10;- Fixed overlapping css" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Fixed a link&#10;- Fixed overlapping css" />
   </component>
 </project>
