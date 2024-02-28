@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd8a4a3e-6819-4340-9480-2eb304ca78c8" name="Changes" comment="- Undo git push.">
+    <list default="true" id="cd8a4a3e-6819-4340-9480-2eb304ca78c8" name="Changes" comment="- Fixed the issue when zooming.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/main.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/merchandise.html" beforeDir="false" afterPath="$PROJECT_DIR$/merchandise.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/story.html" beforeDir="false" afterPath="$PROJECT_DIR$/story.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +100,7 @@
       <workItem from="1708937724570" duration="6268000" />
       <workItem from="1708960166123" duration="17457000" />
       <workItem from="1709028755195" duration="25670000" />
-      <workItem from="1709116844451" duration="12405000" />
+      <workItem from="1709116844451" duration="14048000" />
     </task>
     <task id="LOCAL-00001" summary="Added main html page and stylesheet css">
       <option name="closed" value="true" />
@@ -236,7 +238,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709133653688</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="- Fixed the issue when zooming.">
+      <option name="closed" value="true" />
+      <created>1709134275849</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1709134275849</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -275,6 +285,7 @@
     <MESSAGE value="- Fixed mobile-navbar" />
     <MESSAGE value="- Fixed mobile-navbar&#10;- Fixed other concurring issues due to merge errors." />
     <MESSAGE value="- Undo git push." />
-    <option name="LAST_COMMIT_MESSAGE" value="- Undo git push." />
+    <MESSAGE value="- Fixed the issue when zooming." />
+    <option name="LAST_COMMIT_MESSAGE" value="- Fixed the issue when zooming." />
   </component>
 </project>

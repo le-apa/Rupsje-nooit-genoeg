@@ -2,111 +2,149 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="icon" href="./images/caterpillar-icon.png" type="image/icon type">
     <title>Story</title>
-    
+
 </head>
 <body class="caterpillar-page">
-    <div class="caterpillar__navbar">
-        <ul class="caterpillar__navbar__list">
-            <li class="caterpillar__navbar__list_item">
-                <a class="caterpillar__navbar__list_item_link" href="./main.html">
-                    Home
-                </a>
-            </li>
-            <li class="caterpillar__navbar__list_item">
-                <a class="caterpillar__navbar__list_item_link" href="./author.html">
-                    Author
-                </a>
-            </li>
-            <li class="caterpillar__navbar__list_item">
-                <a class="caterpillar__navbar__list_item_link" href="./story.html">
-                    Story
-               </a>
-            </li>
-            <li class="caterpillar__navbar__list_item">
-                <a class="caterpillar__navbar__list_item_link" href="./merchandise.html">
-                    Merchandise
-                </a>
-            </li>
-        </ul>
+<nav class="mainpage__navbar-mobile">
+    <div class="mobile_nav">
+        <a href="#main" class="active">
+            <div class="mobile_nav_text">The Very Hungry Caterpillar</div>
+        </a>
+        <div id="navigation">
+            <a href="./main.html">Home</a>
+            <a href="./author.html">Author</a>
+            <a href="./story.html">Story</a>
+            <a href="./merchandise.html">Merchandise</a>
+            <a href="./gallery.html">Gallery</a>
+        </div>
+        <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+            <i class="fa fa-bars"></i>
+        </a>
+    </div>
+</nav>
+<nav class="mainpage__navbar">
+    <ul class="mainpage__navbar__list">
+        <li class="mainpage__navbar__list_item">
+            <a class="mainpage__navbar__list_item_link" href="./main.html">
+                Home
+            </a>
+        </li>
+        <li class="mainpage__navbar__list_item">
+            <a class="mainpage__navbar__list_item_link" href="./author.html">
+                Author
+            </a>
+        </li>
+        <li class="mainpage__navbar__list_item">
+            <a class="mainpage__navbar__list_item_link" href="./story.html">
+                Story
+            </a>
+        </li>
+        <li class="mainpage__navbar__list_item">
+            <a class="mainpage__navbar__list_item_link" href="./merchandise.html">
+                Merchandise
+            </a>
+        </li>
+        <li class="mainpage__navbar__list_item">
+            <a class="mainpage__navbar__list_item_link" href="./gallery.html">
+                Gallery
+            </a>
+        </li>
+    </ul>
+</nav>
+
+<header>
+    <div class="caterpillar__story">
+        <div class="caterpillar__story__container">
+            <img class="caterpillar__author__container_image" src="./images/butterfly_fixed.webp" width="700"
+                 alt="image of the very hungry caterpillar as a butterfly">
+        </div>
     </div>
 
-    <header>
-        <div class="caterpillar__story">
-            <div class="caterpillar__story__container">
-                <img class="caterpillar__author__container_image" src="./images/butterfly_fixed.webp" alt="image of the very hungry caterpillar as a butterfly">
-            </div>
-        </div>
-
-        <nav>
-            <ul>
-                <li><a href="#story__story">Story</a></li>
-                <li><a href="#story__origin">Origin of the story</a></li>
-                <li><a href="#story__lesson">Lesson behind the story</a></li>
-                <li><a href="#story__effect">Effect on childrens life</a></li>
-            </ul>
-        </nav>
-    </header>
-    <article class="story">
-        <section id="story__story">
-            <h2>
-                Story
-            </h2>
-            <p>
-                Here's the story of a little caterpillar that hatches from an egg. Right from the start from the day he was born, 
-            he is always hungry and starts eating different foods each day. However, in order to lessen his apetite, he ate 
-            lots of junk food. His overeating lead to feeling overly stuffed. A wise choice of a leaf the next day brings relief, 
-            and as time passes, the caterpillar grows up. The following days he built himself a cocoon and he emerged as a 
+    <nav>
+        <ul>
+            <li><a href="#story__story">Story</a></li>
+            <li><a href="#story__origin">Origin of the story</a></li>
+            <li><a href="#story__lesson">Lesson behind the story</a></li>
+            <li><a href="#story__effect">Effect on childrens life</a></li>
+        </ul>
+    </nav>
+</header>
+<article class="story">
+    <section id="story__story">
+        <h2>
+            Story
+        </h2>
+        <p>
+            Here's the story of a little caterpillar that hatches from an egg. Right from the start from the day he was
+            born,
+            he is always hungry and starts eating different foods each day. However, in order to lessen his apetite, he
+            ate
+            lots of junk food. His overeating lead to feeling overly stuffed. A wise choice of a leaf the next day
+            brings relief,
+            and as time passes, the caterpillar grows up. The following days he built himself a cocoon and he emerged as
+            a
             stunning butterfly!
-            </p>
-        </section>
-    
-        <section id="story__origin">
-            <h2>
-                Origin of the story
-            </h2>
-            <p>
-                It is told that <a href="./author.html">Eric Carle</a> was inspired for this idea when he was punching some holes on some document papers.
-            He came up with the following idea: a Bookwork character based on what he just did. A while later, he came with 
-            the idea to make it about a caterpillar. Immediately, he knew how he would design the book itself: the book had 
-            to have cut-out pages that all differed. He gained this idea from some books that he had read during his childhood, 
-            which he really enjoyed.
-    
-            The book was published by the World Publishing Company in 1969. Later, Penguin Random House became the book’s publisher. 
-            The book has been translated more than 60 languages speaking of its worldwide popularity. 
-            </p>
-            
-        </section>
-    
-        <section id="story__lesson">
-            <h2>
-                Lesson behind the story
-            </h2>
-            <p>
-                Although the book is very short, it has a lot of lessons for children in it. First of all, it introduces toddlers to all 
-                kinds of food and it teaches them what feeling very hungry is. 
-                When children get older, they can recognise the patterns in the book, namely that the amount of food that the caterpillar 
-                eats increases and increases and that a high amount of food is not good for you. 
-                Moreover, kids can also learn the names of days of the week by reading this book. Another lesson kids can learn from 
-                this book is the life cycle of a caterpillar and how it evolves into a beautiful butterfly
-            </p>
-            
-        </section>
-    
-        <section id="story__effect">
-            <h2>
-                Effect on children's life
-            </h2>
-            <p>
-                Once children understand the story of the Very Hungry Caterpillar, they will notice the eating pattern of the caterpillar. 
-                They will know that overeating and eating too much unhealthy food makes the caterpillar sick. Children can be more aware 
-                of the food choices they make in the future, because they now know that junk food is not good for you.    
-            </p>
-        </section>
-    </article>
-    
+        </p>
+    </section>
 
+    <section id="story__origin">
+        <h2>
+            Origin of the story
+        </h2>
+        <p>
+            It is told that <a href="./author.html">Eric Carle</a> was inspired for this idea when he was punching some
+            holes on some document papers.
+            He came up with the following idea: a Bookwork character based on what he just did. A while later, he came
+            with
+            the idea to make it about a caterpillar. Immediately, he knew how he would design the book itself: the book
+            had
+            to have cut-out pages that all differed. He gained this idea from some books that he had read during his
+            childhood,
+            which he really enjoyed.
+
+            The book was published by the World Publishing Company in 1969. Later, Penguin Random House became the
+            book’s publisher.
+            The book has been translated more than 60 languages speaking of its worldwide popularity.
+        </p>
+
+    </section>
+
+    <section id="story__lesson">
+        <h2>
+            Lesson behind the story
+        </h2>
+        <p>
+            Although the book is very short, it has a lot of lessons for children in it. First of all, it introduces
+            toddlers to all
+            kinds of food and it teaches them what feeling very hungry is.
+            When children get older, they can recognise the patterns in the book, namely that the amount of food that
+            the caterpillar
+            eats increases and increases and that a high amount of food is not good for you.
+            Moreover, kids can also learn the names of days of the week by reading this book. Another lesson kids can
+            learn from
+            this book is the life cycle of a caterpillar and how it evolves into a beautiful butterfly
+        </p>
+
+    </section>
+
+    <section id="story__effect">
+        <h2>
+            Effect on children's life
+        </h2>
+        <p>
+            Once children understand the story of the Very Hungry Caterpillar, they will notice the eating pattern of
+            the caterpillar.
+            They will know that overeating and eating too much unhealthy food makes the caterpillar sick. Children can
+            be more aware
+            of the food choices they make in the future, because they now know that junk food is not good for you.
+        </p>
+    </section>
+</article>
+<script src="script.js">
+</script>
 </body>
 </html>
