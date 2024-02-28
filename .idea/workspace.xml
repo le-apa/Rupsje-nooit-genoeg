@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cd8a4a3e-6819-4340-9480-2eb304ca78c8" name="Changes" comment="- Placed images in a folder&#10;- Added new links&#10;- Updated styling&#10;- Made more media queries to be more accessible.">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Untitled.pxz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/author pic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/author.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/book pic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/book.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/caterpillar-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/caterpillar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ooievaar.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/author.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/caterpillar-foods.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/caterpillar-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/caterpillar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merchandise.html" beforeDir="false" afterPath="$PROJECT_DIR$/merchandise.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/museum caterpillar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ooievaar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/main.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/style.css" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2cRxit5VAyrwXsXF08IJVvX7wkp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.main.html.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;liveEdit&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alphu\WebstormProjects\Rupsje-nooit-genoeg" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" engineId="8385e7ff-3538-4094-85b3-e2885ba3dbea" uri="http://localhost:63342/Rupsje-nooit-genoeg/main.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.main.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd8a4a3e-6819-4340-9480-2eb304ca78c8" name="Changes" comment="" />
+      <created>1708088322929</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708088322929</updated>
+      <workItem from="1708088324025" duration="4632000" />
+      <workItem from="1708107515590" duration="934000" />
+      <workItem from="1708124562674" duration="31526000" />
+      <workItem from="1708219497737" duration="227000" />
+      <workItem from="1708261708874" duration="2743000" />
+      <workItem from="1708264569487" duration="3738000" />
+      <workItem from="1708419422217" duration="23000" />
+      <workItem from="1708458856816" duration="2812000" />
+      <workItem from="1708526195850" duration="9003000" />
+      <workItem from="1708872605612" duration="7469000" />
+      <workItem from="1708892485256" duration="1130000" />
+      <workItem from="1708937724570" duration="6268000" />
+      <workItem from="1708960166123" duration="17457000" />
+      <workItem from="1709028755195" duration="25670000" />
+      <workItem from="1709116844451" duration="9197000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added main html page and stylesheet css">
+      <option name="closed" value="true" />
+      <created>1708088474394</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708088474394</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added title and a video of the very hungry caterpillar.">
+      <option name="closed" value="true" />
+      <created>1708088947945</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708088947945</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Worked on main page&#10;- Added title&#10;- Caterpillar image and a background for it.&#10;- A shop link (to merchandise subpage)&#10;- An author section.&#10;&#10;- Added a navbar, unfinished&#10;- A news (black and white block) section, unfinished.&#10;- A special events section (squares), unfinished.&#10;- A footer, unfinished.">
+      <option name="closed" value="true" />
+      <created>1708219155164</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708219155164</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added an author.html page">
+      <option name="closed" value="true" />
+      <created>1708219166684</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708219166684</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added a merchandise.html page">
+      <option name="closed" value="true" />
+      <created>1708219176447</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708219176447</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added a story.html page">
+      <option name="closed" value="true" />
+      <created>1708219182741</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1708219182741</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Deleted an obsolete attribute &lt;div&gt;.">
+      <option name="closed" value="true" />
+      <created>1708219272416</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1708219272417</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Deleted a duplicate property in .caterpillar__content_news-fun.">
+      <option name="closed" value="true" />
+      <created>1708219300385</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1708219300385</updated>
+    </task>
+    <task id="LOCAL-00009" summary="The caterpillar image.">
+      <option name="closed" value="true" />
+      <created>1708219445098</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1708219445098</updated>
+    </task>
+    <task id="LOCAL-00010" summary="- Added all links to subpages.&#10;- Fixed some CSS elements to be  responsitive using width-% instead of px.">
+      <option name="closed" value="true" />
+      <created>1708264300552</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1708264300552</updated>
+    </task>
+    <task id="LOCAL-00011" summary="- Added a new text part.&#10;- Changed more pieces to be more responsive in CSS">
+      <option name="closed" value="true" />
+      <created>1708268258317</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1708268258317</updated>
+    </task>
+    <task id="LOCAL-00012" summary="- Responsitivity updates, adding a media query to resolve mobile and tablet users issues,&#10;- Added new rectangles&#10;- Added new images">
+      <option name="closed" value="true" />
+      <created>1708960758934</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1708960758934</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added main html page and stylesheet css" />
+    <MESSAGE value="Added title and a video of the very hungry caterpillar." />
+    <MESSAGE value="Worked on main page&#10;- Added title&#10;- Caterpillar image and a background for it.&#10;- A shop link (to merchandise subpage)" />
+    <MESSAGE value="Worked on main page&#10;- Added title&#10;- Caterpillar image and a background for it.&#10;- A shop link (to merchandise subpage)&#10;- An author section.&#10;&#10;- Added a navbar, unfinished&#10;- A news (black and white block) section, unfinished.&#10;- A special events section (squares), unfinished.&#10;- A footer, unfinished." />
+    <MESSAGE value="Added an author.html page" />
+    <MESSAGE value="Added a merchandise.html page" />
+    <MESSAGE value="Added a story.html page" />
+    <MESSAGE value="Deleted an obsolete attribute &lt;div&gt;." />
+    <MESSAGE value="Deleted a duplicate property in .caterpillar__content_news-fun." />
+    <MESSAGE value="The caterpillar image." />
+    <MESSAGE value="- Added all links to subpages.&#10;- Fixed some CSS elements to be  responsitive using width-% instead of px." />
+    <MESSAGE value="- Added a new text part." />
+    <MESSAGE value="- Added a new text part.&#10;- Changed more pieces to be more responsive in CSS" />
+    <MESSAGE value="- Responsitivity updates, adding a media query to resolve mobile and tablet users issues,&#10;- Added new rectangles&#10;- Added new images" />
+    <MESSAGE value="- Placed images in a folder&#10;- Added new links&#10;- Updated styling&#10;- Made more media queries to be more accessible." />
+    <option name="LAST_COMMIT_MESSAGE" value="- Placed images in a folder&#10;- Added new links&#10;- Updated styling&#10;- Made more media queries to be more accessible." />
+  </component>
+</project>
