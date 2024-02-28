@@ -542,6 +542,91 @@ img.mainpage__content_news-two:hover {
     }
 }
 
+.caterpillar__author {
+    background-color: #eaf2c1;
+    padding: 2%;
+    text-align: center;
+}
+
+.caterpillar__author__container_image {
+    width: 100%;
+    max-width: 250px;
+    max-height: 350px;
+    height: auto;
+    width: auto;
+}
+
+body.caterpillar-page {
+    background-color: #d9e3a8;
+}
+
+.story__story {
+    padding: 2%;
+}
+
+
+
+@media (max-width: 100%) {
+    .caterpillar__navbar__list {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .caterpillar__navbar__list_item {
+        margin-bottom: 10px;
+    }
+
+    .caterpillar__story__container {
+        padding: 1%;
+    }
+
+    .story {
+        padding: 1%;
+    }
+}
+
+.caterpillar__story__container {
+    background-color: #FFFFFF; 
+    padding: 2%;
+    text-align: center;
+}
+
+.caterpillar__author__container_image {
+    max-width: 100%; 
+    height: auto;
+}
+
+.story {
+    max-width: 80%;
+    margin: 0 auto;
+    padding: 2%;
+}
+
+p {
+    line-height: 1.6;
+}
+
+section {
+    margin-bottom: 3%;
+}
+
+.caterpillar-page nav {
+    text-align: center;
+}
+
+.caterpillar-page nav ul {
+    list-style: none;
+}
+.caterpillar-page nav li {
+    display: block; 
+    margin-bottom: 1%; 
+}
+
+.caterpillar-page nav a {
+    text-decoration: none;
+    color: #333;
+}
+
 @media screen and (max-width: 1024px){
     .mainpage__content__header{
         font-size: 1.8rem;
