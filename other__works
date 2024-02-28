@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <title>Other Works</title>
+    
+</head>
+<body>
+    <header>
+    <div class="caterpillar">
+        <div class="caterpillar__navbar">
+            <ul class="caterpillar__navbar__list">
+                <li class="caterpillar__navbar__list_item">
+                    <a class="caterpillar__navbar__list_item_link" href="./main.html">
+                        Home
+                    </a>
+                </li>
+                <li class="caterpillar__navbar__list_item">
+                    <a class="caterpillar__navbar__list_item_link" href="./author.html">
+                        Author
+                    </a>
+                </li>
+                <li class="caterpillar__navbar__list_item">
+                    <a class="caterpillar__navbar__list_item_link" href="./story.html">
+                        Story
+                    </a>
+                </li>
+                <li class="caterpillar__navbar__list_item">
+                    <a class="caterpillar__navbar__list_item_link" href="./merchandise.html">
+                        Merchandise
+                    </a>
+                </li>
+            </ul>
+            </div>
+        </div>
+        </header>
+            <main>
+                <div class="other__works__top">
+                        <h1>Other works by Eric Carle</h1>
+                            <p>Though Eric Carle has become famous for his masterpiece, the very hungry catterpillar, he has also written plenty of other books. Carle has sticked to his exclusively sticked to his speiciality, the genre of calourfull childerens books with little text and plenty of drawings. Having published well over 40 books, Eric Carle can certainly be considered a plorific writer. Check out some of his best works below </p>
+                    </div>
+                <div class="other__works__container">
+                <a href="https://eric-carle.com/eric-carle-book-gallery/the-hole-in-the-dike-1975/">
+                <div class="other__works__element__odd">
+                    <img class="other__works__img" src="https://i.etsystatic.com/14297001/r/il/22e0be/2598599793/il_1588xN.2598599793_kpag.jpg" alt="The Hole in the Dike - cover">
+                    <div class="other__works__text">
+                    <h2>The Hole in the Dike</h2>
+                    <p>The historical story of a boy who stops a flood by putting his finger in a dike is classic Dutch tale about heroism. Eric Carle brought this story to an international audience by publishing an English version childerens book about it. He collaborates with Norma Green</p>
+                    </div>
+                    </div>
+                    </a>
+                <a href="https://eric-carle.com/eric-carle-book-gallery/brown-bear-brown-bear-what-do-you-see/">
+                <span class="other__works__element__even">
+                    <img class="other__works__img" src="https://cdn.kobo.com/book-images/9b741578-e227-4a16-9ee1-bb9734e45a46/353/569/90/False/brown-bear-brown-bear-what-do-you-see.jpg" alt="Brown Bear, Brown Bear, What Do You See?">
+                    <div class="other__works__text">
+                    <h2> Brown Bear, Brown Bear, What Do You See?</h2>
+                    <p4> Carles first work was a book designed to teach childeren the names of animals. Published as early as 1967, two years before the very hungry catterpillar, this book was a strong start to Carles career that has witstood the test of time. The story is about a brown bear who sees various differently coloured animals and names them.  </p4>
+                    </div>
+                        </span>
+                    </a>
+                
+                <a href="https://eric-carle.com/eric-carle-book-gallery/1-2-3-to-the-zoo-1968/">
+                <div class="other__works__element__odd">
+                    <img class="other__works__img" src="https://m.media-amazon.com/images/I/91PpL3O+-9L._SL1500_.jpg" alt="1, 2, 3 to the zoo - cover">
+                    <div class="other__works__text">
+                    <h2> 1, 2, 3 to the zoo</h2>
+                    <p> Carles second work, written between Brown Bear, Brown Bear, What Do You See? and The Very Hungry Catterpillar, this books theme is teaching childeren to count. Each page of this book contains one more zoo animal to count</p>
+                    </div>
+                    </div>
+                    </a>
+                <a href="https://eric-carle.com/eric-carle-book-gallery/does-a-kangaroo-have-a-mother-too-2000/">
+                    <span class="other__works__element__even">
+                    <img class="other__works__img" src="https://m.media-amazon.com/images/I/819TyjWBAkL._SL1500_.jpg" alt="Does a Kangaroo Have a Mother, Too? - cover">
+                    <div class="other__works__text">
+                        <h2> Does a Kangaroo Have a Mother, Too?</h2>
+                        <p> Publsished at the turn of the century, this book consists of a child kangaroo asking his mother if various different animals have mothers to. Of course the answer is always yes, and this repetition teaches childeren that animals also have mothers</p>
+                        </div>
+                        </span>
+                    </a>
+                    </div>
+                <br/>
+                <div class="more__works__list">
+                    <div>
+                        <h2 class="test">More Works</h2>
+                        <p2>Eric Carles works are to numorous to all describe in detail. We have listed out all the other works below. Click the links if any of them spark your curiosity</p2>
+                        </div>
+                    <div style="overflow-x:auto;">
+
+                    <table>
+            <tr>
+              <th>Title</th>
+              <th>Year of publication</th>
+            </tr>
+                        
+            <tr>
+              <td><a href="https://eric-carle.com/eric-carle-book-gallery/pancakes-pancakes-1970/">PANCAKES, PANCAKES!</a></td>
+              <td>1970</td>
+            </tr>
+          <tr>
+              <td><a href="https://eric-carle.com/eric-carle-book-gallery/the-tiny-seed-1970/">THE TINY SEED</a></td>
+              <td>1970</td>
+            </tr>
+            <tr>
+              <td><a href="https://eric-carle.com/eric-carle-book-gallery/the-boastful-fisherman/">THE BOASTFUL FISHERMAN</a></td>
+              <td>1970</td>
+            </tr>
+          <tr>
+              <td><a href="https://eric-carle.com/eric-carle-book-gallery/the-artist-who-painted-a-blue-horse-2011/">THE ARTIST WHO PAINTED A BLUE HORSE</a>
+          </td>
+              <td>2011</td>
+            </tr>
+            <tr>
+              <td><a href="https://eric-carle.com/eric-carle-book-gallery/baby-bear-baby-bear-what-do-you-see-2007/">BABY BEAR, BABY BEAR, WHAT DO YOU SEE?</a></td>
+              <td>2007</td>
+            </tr>
+          <tr>
+              <td><a href="https://eric-carle.com/eric-carle-book-gallery/10-little-rubber-ducks-2005/">10 LITTLE RUBBER DUCKS</a></td>
+              <td>2005</td>
+            </tr>
+            <tr>
+              <td><a href="https://eric-carle.com/eric-carle-book-gallery/mister-seahorse-2004/">MISTER SEAHORSE</a></td>
+              <td>2004</td>
+            </tr>
+          <tr>
+              <td><a href="https://eric-carle.com/eric-carle-book-gallery/where-are-you-going-to-see-my-friend-2003/">WHERE ARE YOU GOING? TO SEE MY FRIEND!</a></td>
+              <td>2003</td>
+            </tr>
+          <tr>
+              <td><a href="https://eric-carle.com/eric-carle-book-gallery/slowly-slowly-slowly-said-the-sloth-2002/">“SLOWLY, SLOWLY, SLOWLY,” SAID THE SLOTH</a></td>
+              <td>2002</td>
+            </tr>
+            <tr>
+              <td><a href="https://eric-carle.com/eric-carle-book-gallery/dream-snow-2000/">DREAM SNOW</a></td>
+              <td>2000</td>
+            </tr>
+          <tr>
+              <td><a href="https://eric-carle.com/eric-carle-book-gallery/do-you-want-to-be-my-friend-1971/">DO YOU WANT TO BE MY FRIEND?</a></td>
+              <td>1971</td>
+            </tr>
+          <tr>
+              <td><a href="https://eric-carle.com/eric-carle-book-gallery/roosters-off-to-see-the-world-1972/">ROOSTER’S OFF TO SEE THE WORLD</a></td>
+              <td>1972</td>
+            </tr>
+            <tr>
+              <td><a href="https://eric-carle.com/eric-carle-book-gallery/walter-the-baker-1972/">WALTER THE BAKER</a></td>
+              <td>1972</td>
+            </tr>
+          <tr>
+              <td><a href="https://eric-carle.com/eric-carle-book-gallery/the-very-clumsy-click-beetle-1999/">THE VERY CLUMSY CLICK BEETLE</a></td>
+              <td>1999</td>
+            </tr>
+          <tr>
+              <td><a href="https://eric-carle.com/eric-carle-book-gallery/the-grouchy-ladybug-1977/">THE GROUCHY LADYBUG</a></td>
+              <td>1977</td>
+            </tr>
+            <tr>
+              <td><a href="https://eric-carle.com/eric-carle-book-gallery/watch-out-a-giant-1978/">WATCH OUT! A GIANT!</a></td>
+              <td>1978</td>
+            </tr>
+          </table>
+                        </div>
+                    </div>
+                </main>
+        </body>
+    
+</html>
