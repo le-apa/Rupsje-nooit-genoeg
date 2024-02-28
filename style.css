@@ -30,7 +30,108 @@ a{
 .mainpage__navbar__list_item {
     float: right;
 }
+.merch__discription {
+    font-family: "Times New Roman";
+    background: #7f8e37;
+}
 
+.merch__item__odd {
+    font-family: "Times New Roman";
+    background: rgb(255, 122, 89) !important;
+    width: 45%;
+    margin: 2%;
+    float: left;
+    border-radius: 5rem;
+    border: 5px solid;
+}
+
+.merch__item__even {
+    font-family: "Times New Roman";
+    background: rgb(255, 122, 89) !important;
+    width: 45%;
+    margin: 2%;
+    float: right;
+    border-radius: 5rem;
+    border: 5px solid;
+}
+
+merch__container {
+    background: #7f8d37;
+}
+
+.merch__image {
+    width: 45%;
+    padding-left: 10%;
+    
+}
+
+.other__works__top {
+    font-family: "Times New Roman";
+    float: left;
+    background: #7f8e37;
+}
+
+.other__works__element__odd {
+    font-family: "Times New Roman";
+    background: rgb(255, 122, 89) !important;
+    width: 45%;
+    margin: 2%;
+    float: left;
+    border-radius: 5rem;
+    border: 5px solid;
+}
+
+.other__works__element__even {
+    font-family: "Times New Roman";
+    background: rgb(255, 122, 89) !important;
+    width: 45%;
+    margin: 2%;
+    float: right;
+    border-radius: 5rem;
+    border: 5px solid;
+}
+
+.other__works__img {
+    height: 180px;
+    padding-left: 10%;
+}
+
+.other__works__text {
+    padding-left: 10%;
+    width: 80%;
+}
+
+.merch__text {
+    padding-left: 10%;
+    width: 80%;
+}
+
+.more__works__list {
+    padding-left: 20px;
+ 
+
+}
+
+.other__works__container {
+    width: 100%;
+    background: #7f8d37;
+}
+
+table {
+    border: 1px solid;
+    width: 80%;
+}
+
+th {
+    border: 1px solid;
+    font-weight: bold;
+    padding: 2%;
+}
+
+td {
+    border: 1px solid;
+    padding: 2%;
+}
 .mainpage__navbar__list_item_link {
     display: block;
     color: white;
@@ -558,6 +659,27 @@ img.mainpage__content_news-two:hover {
     .mainpage__content__author__text_paragraph{
         font-size: 1.4rem;
     }
+    
+    .merchItemLeft{
+        width: 90%;
+    }
+
+.merchItemRight {
+    width: 90%;
+    background: #7f8e37;
+}
+
+.otherWorksElementOdd {
+    width: 90%;
+}
+
+.otherWorksElementEven {
+    width: 90%;
+    background: #7f8e37;
+}
+
+
+    
 }
 
 @media screen and (max-width: 1681px){
@@ -583,6 +705,8 @@ img.mainpage__content_news-two:hover {
         font-size: 1.4rem;
     }
 }
+
+
 @media screen and (max-width: 2030px){
     .mainpage__content__header{
         font-size: 1.7rem;
@@ -590,5 +714,7 @@ img.mainpage__content_news-two:hover {
     .mainpage__content__text_paragraph{
         font-size:1.5rem;
     }
+
+    
 }
 
