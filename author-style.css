@@ -1,0 +1,56 @@
+.caterpillar__author {
+    background-color: #eaf2c1;
+    padding: 2%;
+    text-align: center;
+}
+
+.caterpillar__author__container_image {
+    max-width: 250px;
+    max-height: 350px;
+    height: auto;
+    width: auto;
+}
+
+body.caterpillar-page {
+    background-color: #d9e3a8;
+}
+
+.story__story {
+    padding: 2%;
+}
+
+@media (max-width: 1681px) {
+
+    .caterpillar__story__container {
+        padding: 1%;
+    }
+
+    .story {
+        padding: 1%;
+    }
+}
+
+.caterpillar__story__container {
+    background-color: #FFFFFF;
+    padding: 2%;
+    text-align: center;
+}
+
+.caterpillar__author__container_image {
+    max-width: 100%;
+    height: auto;
+}
+
+.story {
+    max-width: 80%;
+    margin: 0 auto;
+    padding: 2%;
+}
+
+p {
+    line-height: 1.6;
+}
+
+section {
+    margin-bottom: 3%;
+}
