@@ -4,28 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd8a4a3e-6819-4340-9480-2eb304ca78c8" name="Changes" comment="- Placed images in a folder&#10;- Added new links&#10;- Updated styling&#10;- Made more media queries to be more accessible.">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Untitled.pxz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/author pic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/author.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/book pic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/book.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/caterpillar-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/caterpillar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ooievaar.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/author.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/caterpillar-foods.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/caterpillar-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/caterpillar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/main.html" afterDir="false" />
+    <list default="true" id="cd8a4a3e-6819-4340-9480-2eb304ca78c8" name="Changes" comment="- Changed location of image butterfly.&#10;- Fixed spelling issues.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/author.html" beforeDir="false" afterPath="$PROJECT_DIR$/author.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/butterfly_fixed.webp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/merchandise.html" beforeDir="false" afterPath="$PROJECT_DIR$/merchandise.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/museum caterpillar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ooievaar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/story.html" beforeDir="false" afterPath="$PROJECT_DIR$/story.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +37,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -117,7 +101,7 @@
       <workItem from="1708937724570" duration="6268000" />
       <workItem from="1708960166123" duration="17457000" />
       <workItem from="1709028755195" duration="25670000" />
-      <workItem from="1709116844451" duration="9197000" />
+      <workItem from="1709116844451" duration="9927000" />
     </task>
     <task id="LOCAL-00001" summary="Added main html page and stylesheet css">
       <option name="closed" value="true" />
@@ -215,7 +199,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708960758934</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="- Placed images in a folder&#10;- Added new links&#10;- Updated styling&#10;- Made more media queries to be more accessible.">
+      <option name="closed" value="true" />
+      <created>1709131226930</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1709131226930</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -248,6 +240,7 @@
     <MESSAGE value="- Added a new text part.&#10;- Changed more pieces to be more responsive in CSS" />
     <MESSAGE value="- Responsitivity updates, adding a media query to resolve mobile and tablet users issues,&#10;- Added new rectangles&#10;- Added new images" />
     <MESSAGE value="- Placed images in a folder&#10;- Added new links&#10;- Updated styling&#10;- Made more media queries to be more accessible." />
-    <option name="LAST_COMMIT_MESSAGE" value="- Placed images in a folder&#10;- Added new links&#10;- Updated styling&#10;- Made more media queries to be more accessible." />
+    <MESSAGE value="- Changed location of image butterfly.&#10;- Fixed spelling issues." />
+    <option name="LAST_COMMIT_MESSAGE" value="- Changed location of image butterfly.&#10;- Fixed spelling issues." />
   </component>
 </project>
