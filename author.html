@@ -3,42 +3,64 @@
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> <!-- The Hamburger letter for the mobile navigation bar -->
+    <link rel="icon" href="./images/caterpillar-icon.png" type="image/icon type">
     <title>Author</title>
     
 </head>
 <body class="caterpillar-page">
-    <div class="caterpillar">
-        <div class="caterpillar__navbar">
-            <ul class="caterpillar__navbar__list">
-                <li class="caterpillar__navbar__list_item">
-                    <a class="caterpillar__navbar__list_item_link" href="./main.html">
-                        Home
-                    </a>
-                </li>
-                <li class="caterpillar__navbar__list_item">
-                    <a class="caterpillar__navbar__list_item_link" href="./author.html">
-                        Author
-                    </a>
-                </li>
-                <li class="caterpillar__navbar__list_item">
-                    <a class="caterpillar__navbar__list_item_link" href="./story.html">
-                        Story
-                    </a>
-                </li>
-                <li class="caterpillar__navbar__list_item">
-                    <a class="caterpillar__navbar__list_item_link" href="./merchandise.html">
-                        Merchandise
-                    </a>
-                </li>
-            </ul>
+<nav class="mainpage__navbar-mobile">
+    <div class="mobile_nav">
+        <a href="./main.html" class="active">
+            <div class="mobile_nav_text">The Very Hungry Caterpillar</div>
+        </a>
+        <div id="navigation">
+            <a href="./main.html">Home</a>
+            <a href="./author.html">Author</a>
+            <a href="./story.html">Story</a>
+            <a href="./merchandise.html">Merchandise</a>
+            <a href="./other-works.html">Other Works</a>
         </div>
+        <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+            <i class="fa fa-bars"></i>
+        </a>
     </div>
+</nav>
+<nav class="mainpage__navbar">
+    <ul class="mainpage__navbar__list">
+        <li class="mainpage__navbar__list_item">
+            <a class="mainpage__navbar__list_item_link" href="./main.html">
+                Home
+            </a>
+        </li>
+        <li class="mainpage__navbar__list_item">
+            <a class="mainpage__navbar__list_item_link" href="./author.html">
+                Author
+            </a>
+        </li>
+        <li class="mainpage__navbar__list_item">
+            <a class="mainpage__navbar__list_item_link" href="./story.html">
+                Story
+            </a>
+        </li>
+        <li class="mainpage__navbar__list_item">
+            <a class="mainpage__navbar__list_item_link" href="./merchandise.html">
+                Merchandise
+            </a>
+        </li>
+        <li class="mainpage__navbar__list_item">
+            <a class="mainpage__navbar__list_item_link" href="./other-works.html">
+                Other works
+            </a>
+        </li>
+    </ul>
+</nav>
 
     
     
     <div class="caterpillar__author">
         <div class="caterpillar__author__container">
-            <img class="caterpillar__author__container_image" src="./images/Eric_Carle.png" alt="image of Eric Carle">
+            <img class="caterpillar__author__container_image" src="./images/author.jpg" alt="image of Eric Carle">
         </div>
     </div>
 
