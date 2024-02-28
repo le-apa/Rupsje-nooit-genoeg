@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd8a4a3e-6819-4340-9480-2eb304ca78c8" name="Changes" comment="- Fixed a link&#10;- Fixed overlapping css">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/author.html" beforeDir="false" afterPath="$PROJECT_DIR$/author.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/main.html" afterDir="false" />
+    <list default="true" id="cd8a4a3e-6819-4340-9480-2eb304ca78c8" name="Changes" comment="- Fixed a link in main and author&#10;- Fixed the other works overlapping css issue">
       <change beforePath="$PROJECT_DIR$/merchandise.html" beforeDir="false" afterPath="$PROJECT_DIR$/merchandise.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/other__works.html" beforeDir="false" afterPath="$PROJECT_DIR$/other__works.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/other-works.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/story.html" beforeDir="false" afterPath="$PROJECT_DIR$/story.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +99,7 @@
       <workItem from="1708937724570" duration="6268000" />
       <workItem from="1708960166123" duration="17457000" />
       <workItem from="1709028755195" duration="25670000" />
-      <workItem from="1709116844451" duration="16704000" />
+      <workItem from="1709116844451" duration="17026000" />
     </task>
     <task id="LOCAL-00001" summary="Added main html page and stylesheet css">
       <option name="closed" value="true" />
@@ -273,7 +269,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709136290911</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="- Fixed a link in main and author&#10;- Fixed the other works overlapping css issue">
+      <option name="closed" value="true" />
+      <created>1709138918009</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1709138918009</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -291,7 +295,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added main html page and stylesheet css" />
     <MESSAGE value="Added title and a video of the very hungry caterpillar." />
     <MESSAGE value="Worked on main page&#10;- Added title&#10;- Caterpillar image and a background for it.&#10;- A shop link (to merchandise subpage)" />
     <MESSAGE value="Worked on main page&#10;- Added title&#10;- Caterpillar image and a background for it.&#10;- A shop link (to merchandise subpage)&#10;- An author section.&#10;&#10;- Added a navbar, unfinished&#10;- A news (black and white block) section, unfinished.&#10;- A special events section (squares), unfinished.&#10;- A footer, unfinished." />
@@ -316,6 +319,7 @@
     <MESSAGE value="- Adding navbar to all pages&#10;- Adding the correct stylesheets for it" />
     <MESSAGE value="- Fixed code warnings" />
     <MESSAGE value="- Fixed a link&#10;- Fixed overlapping css" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Fixed a link&#10;- Fixed overlapping css" />
+    <MESSAGE value="- Fixed a link in main and author&#10;- Fixed the other works overlapping css issue" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Fixed a link in main and author&#10;- Fixed the other works overlapping css issue" />
   </component>
 </project>
