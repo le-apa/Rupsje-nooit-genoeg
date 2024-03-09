@@ -8,6 +8,47 @@
     <!--    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"> &lt;!&ndash; W3schools source for getting rid of the "visited" &ndash;&gt;-->
     <link rel="icon" href="./images/caterpillar-icon.png" type="image/icon type">
     <title>The Very Hungry Caterpillar </title>
+ <script>
+
+
+        class creativeWork {
+            constructor(authors, yearOfPublication, title){
+                this.authors = authors;
+                this.yearOfPublication = yearOfPublication;
+                this.title = title;
+             }
+        }
+
+        class book extends creativeWork {
+            constructor(authors, yearOfPublication, title, genre, publisher, cover, cover, plot) {
+                super(authors);
+                super(yearOfPublication);
+                super(title);
+                this.genre = genre;
+                this.publisher = publisher;
+                this.cover = cover;
+                this.plot = plot
+            }
+        }
+
+        class person{
+            constructor(name, yearOrBirth) {
+                this.name = name;
+                this.yearOfBirth = yearOfBirth;
+            }
+        }
+            
+        class author extends person() {
+            constructor(name, yearOfBirth, titles, wiki){
+            super(name);
+            super(yearOfBirth);
+            this.titles = titles;
+            this.wiki = wiki;
+            }
+        }
+
+    </script>
+    
 </head>
 <body>
 <div class="mainpage">
